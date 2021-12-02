@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorTugas", "CalculatorTugas\CalculatorTugas.csproj", "{61952DDF-347A-4193-8ACE-3235CF6023D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61952DDF-347A-4193-8ACE-3235CF6023D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61952DDF-347A-4193-8ACE-3235CF6023D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61952DDF-347A-4193-8ACE-3235CF6023D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61952DDF-347A-4193-8ACE-3235CF6023D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C37BA84F-F307-4C90-8E64-6DCF68E1F62A}
+	EndGlobalSection
+EndGlobal

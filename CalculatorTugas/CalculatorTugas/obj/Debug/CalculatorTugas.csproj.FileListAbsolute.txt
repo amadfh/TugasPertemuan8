@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\CalculatorTugas\CalculatorTugas\bin\Debug\CalculatorTugas.exe.config
+C:\Users\ACER\source\repos\CalculatorTugas\CalculatorTugas\bin\Debug\CalculatorTugas.exe
+C:\Users\ACER\source\repos\CalculatorTugas\CalculatorTugas\bin\Debug\CalculatorTugas.pdb
+C:\Users\ACER\source\repos\CalculatorTugas\CalculatorTugas\obj\Debug\CalculatorTugas.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\CalculatorTugas\CalculatorTugas\obj\Debug\CalculatorTugas.FrmHasil.resources
+C:\Users\ACER\source\repos\CalculatorTugas\CalculatorTugas\obj\Debug\CalculatorTugas.FrmCalc.resources
+C:\Users\ACER\source\repos\CalculatorTugas\CalculatorTugas\obj\Debug\CalculatorTugas.Properties.Resources.resources
+C:\Users\ACER\source\repos\CalculatorTugas\CalculatorTugas\obj\Debug\CalculatorTugas.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\CalculatorTugas\CalculatorTugas\obj\Debug\CalculatorTugas.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\CalculatorTugas\CalculatorTugas\obj\Debug\CalculatorTugas.exe
+C:\Users\ACER\source\repos\CalculatorTugas\CalculatorTugas\obj\Debug\CalculatorTugas.pdb
